@@ -118,4 +118,4 @@ This is a frontend-only application with simulated authentication and data. In a
 
 ## License
 
-This project is for demonstration purposes.
+This project is for demonstration purposes."# DB-Project" 
